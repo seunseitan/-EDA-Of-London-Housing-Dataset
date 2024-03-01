@@ -1,1 +1,1 @@
-# -EDA-Of-London-Housing-Dataset
+This repository presents an exploration of a dataset on London Housing sourced from Kaggle, summarizing its primary characteristics.
